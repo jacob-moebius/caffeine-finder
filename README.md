@@ -5,5 +5,6 @@ An Android app that shows coffee and tea shops in a Google Maps fragment, using 
 To see this project in action:
 * Download/clone the repo.
 * Open the project in Android Studio.
+* Obtain and insert a Google Maps API key in the google_maps_api.xml under the res/ directory.
 * Use an emulator that is compatible with Android API 21.
 * Run the project using that emulator.
